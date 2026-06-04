@@ -2,7 +2,7 @@
 
 ## Autor
 
-[SINU NIMI]
+Mariia Novozhenina
 Grupp: LOGITpv24
 
 ## Kursuse kirjeldus
