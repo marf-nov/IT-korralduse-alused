@@ -1,21 +1,19 @@
-# IT-korralduse-alused
+# IT korralduse alused
 
-## Tere! 
+## Autor
 
-## Minust
+[SINU NIMI]
+Grupp: LOGITpv24
 
-Minu nimi on Mariia.
+## Kursuse kirjeldus
 
-Õpin TTHK-s IT korralduse aluseid. Mind huvitavad tehnoloogia, arvutid ja projektijuhtimine. Soovin õppida rohkem GitHubi, Git’i ja IT süsteemide kohta.
+Selles repositooriumis asuvad IT korralduse aluste kursuse materjalid. Repositoorium sisaldab erinevaid teemasid nagu ITIL, protsessid, taristu, Lean ja projektijuhtimine.
 
-## Huvid IT valdkonnas
+## Teemad
 
-* IT taristu
-* Projektijuhtimine
-* Git ja GitHub
-* Tarkvaraarendus
-* Küberturvalisus
-
-## Kontakt
-
-* Tallinn, Estonia
+* [Teema 1: ITIL](teema1-itil/)
+* [Teema 2: Protsessid](teema2-protsessid/)
+* [Teema 3: Taristu](teema3-taristu/)
+* [Teema 4: Lean](teema4-lean/)
+* [Teema 5: Projekt](teema5-projekt/)
+* [Kokkuvõte](kokkuvote/)
