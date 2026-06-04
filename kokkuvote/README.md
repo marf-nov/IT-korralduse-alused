@@ -12,7 +12,5 @@ Git erineb tavalisest failide kopeerimisest selle poolest, et kõik muudatused s
 
 GitHub aitab ka projektijuhtimisel. Issues võimaldavad luua ülesandeid ja jälgida nende staatust. Projects võimaldab kasutada Kanban-tahvleid töö organiseerimiseks.
 
-Arvan, et kasutan GitHubi ka tulevikus. See on kasulik projektide hoidmiseks ja koostöö tegemiseks.
 
-Kõige raskem oli harude ja Pull Requestide kasutamine. Kõige lihtsam oli README failide loomine ja muutmine.
 
